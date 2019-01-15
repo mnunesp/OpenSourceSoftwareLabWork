@@ -1,4 +1,4 @@
 ## Name: Mario Nunes (nunesm)
 ### Email: nunesm@rpi.edu
 ### Githubid: mnunesp
-Photo
+Photo: ![Mario](images/flag.png)
