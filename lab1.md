@@ -25,3 +25,6 @@ It can be difficult to determine who owns what. If we develope something, we sho
 ![](images/reg8.png)
 ![](images/reg9.png)
 ![](images/tree.png)
+
+###Reflection:
+I think it is important to consider what skills I want to develop when choosing a project/problem while also looking at what I do know. I have experience with web development with Python and Django. I could attempt to make a much better website/webapp or improve one. On the other hand I really want to do some low level development with C++. Game development has piqued my interest recently so it might be good idea to combine that with C++ and try to make a game engine (no small task). Or instead of making one from the ground up I could contribute to an already existing engine such as Battle for Wesnoth. Working on an already established engine could prevent me from foundering in the dark and provide a good example to learn from.
