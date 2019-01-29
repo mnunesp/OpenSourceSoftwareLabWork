@@ -33,3 +33,7 @@ Lines of Code: 1565
 First Commit:
 Latest Commit:
 Branches: 1
+
+gitstats:
+
+Gitstats data matches data collected perfectly
