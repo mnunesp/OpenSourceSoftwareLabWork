@@ -5,9 +5,9 @@ Number of Contributers: 1
 
 Lines of Code:
 
-First Commit:
+First Commit: Initial commit
 
-Latest Commit:
+Latest Commit: Fixed license
 
 Branches: 1
 
@@ -17,9 +17,9 @@ Number of Contributers: 1
 
 Lines of Code:
 
-First Commit:
+First Commit: Initial commit
 
-Latest Commit:
+Latest Commit: Project Initialization
 
 Branches: 1
 
@@ -29,9 +29,9 @@ Number of Contributers: 66
 
 Lines of Code: 425,431
 
-First Commit:
+First Commit: init commit
 
-Latest Commit:
+Latest Commit: Add some usage docs to Vagrantfile
 
 Branches: 58
 
@@ -41,9 +41,9 @@ Number of Contributers: 0
 
 Lines of Code: 0
 
-First Commit: 0
+First Commit: None
 
-Latest Commit: 0
+Latest Commit: None
 
 Branches: 0
 
@@ -53,9 +53,9 @@ Number of Contributers: 1
 
 Lines of Code: 1565
 
-First Commit:
+First Commit: Initial commit
 
-Latest Commit:
+Latest Commit: Add dependency on Firebase auth, storage, Firestore.
 
 Branches: 1
 
