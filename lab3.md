@@ -3,7 +3,7 @@
 
 Number of Contributers: 1
 
-Lines of Code:
+Lines of Code: 478
 
 First Commit: Initial commit
 
@@ -15,7 +15,7 @@ Branches: 1
 
 Number of Contributers: 1
 
-Lines of Code:
+Lines of Code: 496
 
 First Commit: Initial commit
 
