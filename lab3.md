@@ -1,6 +1,6 @@
 ## Part 0
 
-![Latex][images/latex1.png]
+![](images/latex1.png)
 
 
 ## Part 1
