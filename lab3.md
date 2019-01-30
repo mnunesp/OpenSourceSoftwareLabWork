@@ -63,3 +63,15 @@ Branches: 1
 ### gitstats:
 
 Gitstats data matches data collected perfectly
+
+## Videos
+
+### StillGood: https://www.youtube.com/watch?v=YjxkFb_uyoo
+
+### subman: https://www.youtube.com/watch?v=TQkilWgFFQo
+
+### Submitty: Too large
+
+### Syllabuild: No Code
+
+### tasty-tracks: https://www.youtube.com/watch?v=z1ZFC30UBho
