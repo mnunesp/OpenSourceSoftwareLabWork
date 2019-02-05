@@ -13,7 +13,7 @@
 
 8) https://github.com/mnunesp/OSSLicenseRepo
 
-9) I would most likely choose the MIT license for the project. The license is very permissive and give permission for anyone to use the software for anything under almost no requirement. This removes any barrers to its development in the future
+9) We would most likely choose the MIT license for the project. The license is very permissive and give permission for anyone to use the software for anything under almost no requirement. This removes any barrers to its development in the future
 
 10)
 |  Website | License Present  | License  |
