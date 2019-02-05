@@ -9,7 +9,7 @@
 
 6)
 
-7)
+7) When considering developers all of these licenses are good choice. However, the added benfit of the GPL and LGPL to include install instructions can help developers become familar with the work quicker. Also, the requirement of marking changes helps developers put their name of the project and fell like they are contributing. Companies will appreciate the LGPL allowance to use libraries in their own software without having to distribute the software under the same license. Also BSD/Apache does not allow the use of trademark so comapnies will appreciate that extra brand security. For the common the good, the BSD is the best option. It allows almost unlimited freedom for the software and can be used almost anywhere. This flexability allows for the porject to grow and develope rapidly.
 
 8)
 
