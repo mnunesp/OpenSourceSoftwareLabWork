@@ -4,3 +4,20 @@
 3) You should not use a license without an explicit license due the risks of the project. A project without a license can be removed and potentially copyrighted. Developers can lose all their work with the death of a project.
 
 4)
+
+5)
+
+6)
+
+7)
+
+8)
+
+9)
+
+10)
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
