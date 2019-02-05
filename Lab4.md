@@ -18,6 +18,8 @@
 10)
 |  Website | License Present  | License  |
 |---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|  https://github.com/apexal/late | Yes  | MIT  |
+|  https://github.com/submitty/submitty | Yes  | BSD 3-Clause  |
+|  https://github.com/huimingcheng/autograding | Yes  | MIT  |
+|  https://github.com/rushmeteam/rushmeios | Yes  | MIT  |
+|  https://github.com/tiecoon/b7 | Yes  | BSD 2-Clause  |
