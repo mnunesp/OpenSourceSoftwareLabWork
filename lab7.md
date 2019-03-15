@@ -3,4 +3,4 @@
 ## Multiple and Logistic Regression
 ![](images/lab7img2.png)
 
-Open_IO GitHub Link: https://github.com/gibboa/open_io
+Project Link: https://rcos.io/projects/gibboa/open_io/profile
